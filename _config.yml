@@ -1,5 +1,3 @@
 name: Sabin Kasparoglu
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
